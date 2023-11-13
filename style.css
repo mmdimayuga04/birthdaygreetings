@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: lightblue;
+  }
+  
+  .card {
+    text-align: center;
+    padding: 20px;
+    background-color: skyblue;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  #birthdayImage {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
